@@ -16,7 +16,7 @@ from core.callbacks import translators
 
 
 
-token = "6496498818:AAEKGNII6eZA0uhp_O80KsvIB3TBFMDQRFg"
+token = ""
 bot = Bot(token, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
 dp = Dispatcher()
